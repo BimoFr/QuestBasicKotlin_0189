@@ -28,7 +28,13 @@ When: Mengimplementasikan ekspresi bersyarat when untuk percabangan dengan banya
 For: Menambahkan contoh perulangan for menggunakan ranges angka
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ea1669e-9308-424d-b9f4-9d5f16fc9879" />
 
+Functions: Mendeklarasikan fungsi kustom dasar menggunakan kata kunci fun beserta parameter dan nilai return
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf876c10-2bd2-4f46-8506-b741cf11243b" />
 
+Named arguments: Menambahkan contoh pemanggilan fungsi secara eksplisit menggunakan nama parameter
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24d62271-88d5-4d93-997d-8119d3ffa68d" />
 
+Default parameter values: Menambahkan fungsi yang mengimplementasikan nilai default pada parameternya
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89bb0f10-ff0c-4b3e-a894-0e9ac6856c44" />
 
 
