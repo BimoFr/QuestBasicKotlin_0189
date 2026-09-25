@@ -46,3 +46,8 @@ Lambda expressions: Mengimplementasikan penulisan fungsi tanpa menggunakan lambd
 Lambda expressions: Mengimplementasikan penulisan fungsi yang lebih ringkas menggunakan lambda
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/408e70a3-f5d0-4c1b-aa94-ee28d7ae39f5" />
 
+Class: Mendeklarasikan kelas, properti, pembuatan instance objek, dan member functions
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa75d55e-1e0c-47d6-a46e-68bf30895478" />
+
+Data classes: Mengimplementasikan data class beserta fungsi bawaan toString, equals, dan copy
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/206191ed-74dd-4c75-8dcb-333aeedd0b06" />
