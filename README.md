@@ -37,4 +37,12 @@ Named arguments: Menambahkan contoh pemanggilan fungsi secara eksplisit mengguna
 Default parameter values: Menambahkan fungsi yang mengimplementasikan nilai default pada parameternya
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89bb0f10-ff0c-4b3e-a894-0e9ac6856c44" />
 
+Functions without return: Menambahkan contoh fungsi bertipe Unit yang tidak mengembalikan nilai
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b5f85cb-468f-4c51-916f-a4aae6811488" />
+
+Lambda expressions: Mengimplementasikan penulisan fungsi tanpa menggunakan lambda
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/524343a6-355e-4582-8ddc-418e52760da2" />
+
+Lambda expressions: Mengimplementasikan penulisan fungsi yang lebih ringkas menggunakan lambda
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/408e70a3-f5d0-4c1b-aa94-ee28d7ae39f5" />
 
