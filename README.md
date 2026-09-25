@@ -51,3 +51,10 @@ Class: Mendeklarasikan kelas, properti, pembuatan instance objek, dan member fun
 
 Data classes: Mengimplementasikan data class beserta fungsi bawaan toString, equals, dan copy
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/206191ed-74dd-4c75-8dcb-333aeedd0b06" />
+
+Nullable types: Menambahkan deklarasi variabel yang diizinkan untuk menyimpan nilai null menggunakan tanda tanya
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7869b215-0a5c-471c-9f90-bbeec6401047" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1cc56b8d-2db6-4a56-966e-ed54c5b3cbf9" />
+
+Check for null values: Menambahkan pengecekan eksistensi nilai null menggunakan kondisional if
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c3018c2-6a74-4361-b66d-6eeeae8a28ea" />
