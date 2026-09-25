@@ -17,6 +17,17 @@ Set: Menambahkan contoh koleksi Set untuk menyimpan kumpulan item unik yang tida
 
 Map: Menambahkan contoh koleksi Map untuk menyimpan item data dalam bentuk pasangan key-value
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c48daf8-c045-4d85-88b0-40107afad6b6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18ce709f-6959-402a-a64b-46e90f38d53e" />
+
+If: Mengimplementasikan ekspresi kondisional if-else untuk percabangan logika
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/952ee1ca-578d-4d78-95ed-3ca0dd1a9d9c" />
+
+When: Mengimplementasikan ekspresi bersyarat when untuk percabangan dengan banyak cabang
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47fe4890-c0cc-4f6e-95f7-ea0ee4853195" />
+
+For: Menambahkan contoh perulangan for menggunakan ranges angka
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ea1669e-9308-424d-b9f4-9d5f16fc9879" />
+
 
 
 
