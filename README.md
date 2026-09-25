@@ -58,3 +58,9 @@ Nullable types: Menambahkan deklarasi variabel yang diizinkan untuk menyimpan ni
 
 Check for null values: Menambahkan pengecekan eksistensi nilai null menggunakan kondisional if
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c3018c2-6a74-4361-b66d-6eeeae8a28ea" />
+
+Use safe calls: Mengimplementasikan operator safe call (?.) untuk mengakses properti yang mungkin bernilai null dengan aman
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c1bcafc-6a3f-44bb-909a-e4bdebd9130f" />
+
+Use Elvis operator: Mengimplementasikan operator Elvis (?:) untuk memberikan nilai kembalian default jika terdeteksi nilai null
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/454ff7af-f9a0-431e-acad-baa2f7a4cffa" />
